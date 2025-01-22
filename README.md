@@ -1,4 +1,4 @@
-# Your Name or Project Name
+Thareesha Deepthaka
 
 Hi! I'm Thareesha Deepthaka. Welcome to my repository. Here's a little about me:
 
