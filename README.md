@@ -1,4 +1,4 @@
-## Thareesha Deepthaka
+## Thareesha Deepthaka(Deen)
 
 Hi! I'm Thareesha Deepthaka. Welcome to my repository. Here's a little about me:
 
