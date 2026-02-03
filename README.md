@@ -8,7 +8,8 @@ Hi! I'm Thareesha Deepthaka. Welcome to my repository. Here's a little about me:
 - 🏆 I'm passionate about AI Technologies.
 
 ## My Socials
-- 💼 www.linkedin.com/in/thareesha-deepthaka-07196b253
+- 💼 https://www.linkedin.com/in/thareesha-deepthaka/
+- 💼 https://thareesha01.github.io/thareesha-portfolio
 
 ## My Skills
 - ✅ HTML
